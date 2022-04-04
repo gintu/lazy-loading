@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lazy-loading/static/css/main.0f5f72b7.css",
+    "main.js": "/lazy-loading/static/js/main.47501b58.js",
+    "static/media/poster2.jpg": "/lazy-loading/static/media/poster2.bf23bfae49d854fec0f2.jpg",
+    "static/media/poster1.jpg": "/lazy-loading/static/media/poster1.d966e333249e4f74e821.jpg",
+    "static/media/poster3.jpg": "/lazy-loading/static/media/poster3.7ee7b802517e3b685aaf.jpg",
+    "static/media/poster5.jpg": "/lazy-loading/static/media/poster5.d0a9cf21d7e7d56979e2.jpg",
+    "static/media/poster8.jpg": "/lazy-loading/static/media/poster8.61013e431fa5ca643217.jpg",
+    "static/media/poster9.jpg": "/lazy-loading/static/media/poster9.080f33854a8c02368de2.jpg",
+    "static/media/poster6.jpg": "/lazy-loading/static/media/poster6.57e30e483bb184bc63b9.jpg",
+    "static/media/poster4.jpg": "/lazy-loading/static/media/poster4.a2f1de9b0f0c656226d7.jpg",
+    "static/media/poster7.jpg": "/lazy-loading/static/media/poster7.8f23c2d5749c68467aaf.jpg",
+    "index.html": "/lazy-loading/index.html",
+    "main.0f5f72b7.css.map": "/lazy-loading/static/css/main.0f5f72b7.css.map",
+    "main.47501b58.js.map": "/lazy-loading/static/js/main.47501b58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f5f72b7.css",
+    "static/js/main.47501b58.js"
+  ]
+}
