@@ -1,9 +1,9 @@
 import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import imageGridReducer from '../features/imageGrid/imageGridSlice';
 
 export const store = configureStore({
   reducer: {
-    counter: counterReducer,
+    images:imageGridReducer
   },
 });
 
